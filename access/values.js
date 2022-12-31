@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "27.05.2004"; // Дата рождения
-var fullname = "Тихий Артем Олександрович" // ФИО
+var birthdate = "27.05.2002"; // Дата рождения
+var fullname = "Аль-Катамін Прем Джехадович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
